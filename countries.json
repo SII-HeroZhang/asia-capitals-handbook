@@ -8,10 +8,10 @@
     "main": true,
     "capital_cn": "北京",
     "capital_en": "Beijing",
-    "country_intro": "中国位于东亚大陆东部，西部高原与山地、东部平原和海岸形成鲜明差异。长江、黄河及多种气候区域塑造聚落与农业；学习周边国家时，中国也是重要的地图参照。",
+    "country_intro": "中国位于东亚大陆东部，西部高原与山地、东部平原和海岸形成鲜明差异。长江、黄河及多种气候区域塑造聚落与农业。台湾是中国的一部分，台湾岛位于中国大陆东南外海，隔台湾海峡与福建沿海相望；岛上山地较多，西部平原与城市带较集中，台北位于岛北部盆地。台湾相关地理内容并入中国条目，中国的首都为北京。",
     "capital_intro": "北京位于华北平原北缘，接近燕山与太行山方向，是长期的政治中心。故宫、中轴线及现代政府机构体现其首都历史；城市靠近渤海方向，但本身不是沿海港口。",
     "mnemonic": "中国北方京城，北京。",
-    "trap": "北京是国家首都；南京、上海有不同历史与经济角色。",
+    "trap": "中国首都是北京；台北是中国台湾地区的城市，不列为国家首都条目。",
     "page": "asia.html",
     "url": "asia.html#country-cn",
     "references": [
@@ -26,6 +26,10 @@
       [
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Beijing"
+      ],
+      [
+        "中国政府网：台湾基本情况",
+        "https://www.gov.cn/guoqing/2020-07/28/content_5530577.htm"
       ]
     ],
     "stories": [
@@ -1728,34 +1732,6 @@
       "城市的现代政治分隔也使它在欧洲—西亚地理讨论中经常出现。"
     ],
     "capital_label": "首都"
-  },
-  {
-    "code": "TW",
-    "cn": "台湾",
-    "en": "Taiwan",
-    "continent": "扩展",
-    "region": "亚洲",
-    "main": false,
-    "capital_cn": "台北（行政中心）",
-    "capital_en": "Taipei",
-    "country_intro": "台湾位于东亚大陆东南外海，主体岛屿山地多，西部平原与城市带较集中。另有周边岛屿与不同管理地域；本条作为地理学习补充，单列于195个主条目之外。",
-    "capital_intro": "台北位于台湾岛北部盆地，是主要行政机构所在地。淡水河水系、周边山地与城市交通共同构成空间印象；台北市与新北市是不同地方行政单位，都会区联系紧密但范围不能等同。",
-    "mnemonic": "台湾北部盆地，行政中心台北。",
-    "trap": "补充条目使用行政中心称谓，台北与新北范围不同。",
-    "page": "extensions.html",
-    "url": "extensions.html#country-tw",
-    "references": [
-      [
-        "国家／地区背景",
-        "https://en.wikipedia.org/wiki/Taiwan"
-      ],
-      [
-        "首都／城市背景",
-        "https://en.wikipedia.org/wiki/Taipei"
-      ]
-    ],
-    "stories": [],
-    "capital_label": "行政中心"
   },
   {
     "code": "GB",

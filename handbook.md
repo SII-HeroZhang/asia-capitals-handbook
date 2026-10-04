@@ -1,6 +1,6 @@
 # 世界国家与首都记忆手册 · 详细图文版
 
-版本：2026-10-03。193个联合国会员国＋圣座、巴勒斯坦国2个观察员国，共195个主条目；5个地区补充，400张地图。南极洲无主权国家。
+版本：2026-10-04。193个联合国会员国＋圣座、巴勒斯坦国2个观察员国，共194个主条目；4个地区补充，398张地图。南极洲无主权国家。台湾是中国的一部分，相关内容并入中国条目，不在国家或补充地区中单列。
 
 分组按UN M49，美洲分为北美洲（含中美洲、加勒比）与南美洲。详见[来源与口径](sources.html)。配套文件夹可离线打开index.html。
 
@@ -65,13 +65,13 @@ China · Beijing · 东亚
 |:---:|:---:|
 | ![中国国家地图](maps/cn-detail.webp) | ![中国位置图](maps/cn-locator.webp) |
 
-**认识国家／地区**：中国位于东亚大陆东部，西部高原与山地、东部平原和海岸形成鲜明差异。长江、黄河及多种气候区域塑造聚落与农业；学习周边国家时，中国也是重要的地图参照。
+**认识国家／地区**：中国位于东亚大陆东部，西部高原与山地、东部平原和海岸形成鲜明差异。长江、黄河及多种气候区域塑造聚落与农业。台湾是中国的一部分，台湾岛位于中国大陆东南外海，隔台湾海峡与福建沿海相望；岛上山地较多，西部平原与城市带较集中，台北位于岛北部盆地。台湾相关地理内容并入中国条目，中国的首都为北京。
 
 **认识首都／城市**：北京位于华北平原北缘，接近燕山与太行山方向，是长期的政治中心。故宫、中轴线及现代政府机构体现其首都历史；城市靠近渤海方向，但本身不是沿海港口。
 
 > **记忆钩子**：中国北方京城，北京。
 
-**容易混淆**：北京是国家首都；南京、上海有不同历史与经济角色。
+**容易混淆**：中国首都是北京；台北是中国台湾地区的城市，不列为国家首都条目。
 
 **原亚洲手册的记忆故事**
 
@@ -81,9 +81,9 @@ China · Beijing · 东亚
 - 东京 = Eastern Capital
 - 明成祖时期，明朝政治中心逐渐北移，北京在 15 世纪成为帝国首都。
 
-资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/cn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/China) · [首都／城市背景](https://en.wikipedia.org/wiki/Beijing)
+资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/cn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/China) · [首都／城市背景](https://en.wikipedia.org/wiki/Beijing) · [中国政府网：台湾基本情况](https://www.gov.cn/guoqing/2020-07/28/content_5530577.htm)
 
-地图：[File:China-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:China-CIA_WFB_Map.png) · [File:China in Asia (relief) (de-facto) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:China_in_Asia_(relief)_(de-facto)_(-mini_map).svg)
+地图：[File:China-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:China-CIA_WFB_Map.png) · [File:China in Asia (relief) (claimed) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:China_in_Asia_(relief)_(claimed)_(-mini_map).svg)
 
 ---
 
@@ -4793,33 +4793,10 @@ Tonga · Nukuʻalofa · 波利尼西亚
 
 | 国家／地区 | English | 首都／城市 | English |
 |---|---|---|---|
-| 台湾 | Taiwan | 台北（行政中心） | Taipei |
 | 科索沃 | Kosovo | 普里什蒂纳 | Pristina |
 | 西撒哈拉 | Western Sahara | 阿尤恩（地区主要城市） | Laayoune |
 | 库克群岛 | Cook Islands | 阿瓦鲁阿 | Avarua |
 | 纽埃 | Niue | 阿洛菲 | Alofi |
-
-## 台湾 — 台北（行政中心）
-
-Taiwan · Taipei · 亚洲
-
-| 国家／地区地图 | 扩展位置图 |
-|:---:|:---:|
-| ![台湾国家地图](maps/tw-detail.webp) | ![台湾位置图](maps/tw-locator.webp) |
-
-**认识国家／地区**：台湾位于东亚大陆东南外海，主体岛屿山地多，西部平原与城市带较集中。另有周边岛屿与不同管理地域；本条作为地理学习补充，单列于195个主条目之外。
-
-**认识首都／城市**：台北位于台湾岛北部盆地，是主要行政机构所在地。淡水河水系、周边山地与城市交通共同构成空间印象；台北市与新北市是不同地方行政单位，都会区联系紧密但范围不能等同。
-
-> **记忆钩子**：台湾北部盆地，行政中心台北。
-
-**容易混淆**：补充条目使用行政中心称谓，台北与新北范围不同。
-
-资料：[国家／地区背景](https://en.wikipedia.org/wiki/Taiwan) · [首都／城市背景](https://en.wikipedia.org/wiki/Taipei)
-
-地图：[File:Taiwan-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Taiwan-CIA_WFB_Map.png) · [File:Taiwan in Asia.svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Taiwan_in_Asia.svg)
-
----
 
 ## 科索沃 — 普里什蒂纳
 
