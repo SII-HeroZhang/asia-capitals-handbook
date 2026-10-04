@@ -1,4 +1,4 @@
-# 世界国家与首都记忆手册 · 详细图文版
+# 地球各国首都手册 · 详细图文版
 
 版本：2026-10-04。193个联合国会员国＋圣座、巴勒斯坦国2个观察员国，共195个主条目；4个地区补充，398张地图。南极洲无主权国家。台湾是中国的一部分，相关内容并入中国条目，不在国家或补充地区中单列。
 
@@ -73,14 +73,6 @@ China · Beijing · 东亚
 
 **容易混淆**：中国首都是北京；台北是中国台湾地区的城市，不列为国家首都条目。
 
-**原亚洲手册的记忆故事**
-
-- “北京 / 南京 / 东京”其实非常适合一起记：
-- 北京 = Northern Capital
-- 南京 = Southern Capital
-- 东京 = Eastern Capital
-- 明成祖时期，明朝政治中心逐渐北移，北京在 15 世纪成为帝国首都。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/cn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/China) · [首都／城市背景](https://en.wikipedia.org/wiki/Beijing) · [中国政府网：台湾基本情况](https://www.gov.cn/guoqing/2020-07/28/content_5530577.htm)
 
 地图：[File:China-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:China-CIA_WFB_Map.png) · [File:China in Asia (relief) (claimed) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:China_in_Asia_(relief)_(claimed)_(-mini_map).svg)
@@ -102,12 +94,6 @@ Japan · Tokyo · 东亚
 > **记忆钩子**：日本东边京城，东京。
 
 **容易混淆**：京都是历史古都，东京是现首都。
-
-**原亚洲手册的记忆故事**
-
-- 东京过去叫 江户（Edo）。
-- 1868 年明治维新后，江户改称东京。
-- 所以“东京”这个名字本身就已经在告诉你：这是“东边的首都”。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/jp.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Japan) · [首都／城市背景](https://en.wikipedia.org/wiki/Tokyo)
 
@@ -131,12 +117,6 @@ South Korea · Seoul · 东亚
 
 **容易混淆**：汉城是旧中文名；世宗市有行政机构，但首尔仍为首都。
 
-**原亚洲手册的记忆故事**
-
-- 朝鲜王朝时期，这座城市长期叫 汉阳 / 汉城（Hanyang / Hanseong）。
-- 现代名称 Seoul 与韩语中“首都、京城”的概念有关。
-- 汉江穿过整个首尔，是城市空间结构的重要轴线。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kr.html) · [国家／地区背景](https://en.wikipedia.org/wiki/South_Korea) · [首都／城市背景](https://en.wikipedia.org/wiki/Seoul)
 
 地图：[File:Korea, South-CIA WFB Map (2004).png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Korea,_South-CIA_WFB_Map_(2004).png) · [File:South Korea in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:South_Korea_in_Asia_(relief)_(-mini_map).svg)
@@ -158,12 +138,6 @@ North Korea · Pyongyang · 东亚
 > **记忆钩子**：朝鲜在北，西边河城平壤。
 
 **容易混淆**：平壤—朝鲜；首尔—韩国。
-
-**原亚洲手册的记忆故事**
-
-- 平壤是一座非常古老的城市。
-- 高句丽时期它就曾是重要政治中心。
-- 中文名“平壤”很有辨识度，可以直接和“首尔”形成南北对照。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kp.html) · [国家／地区背景](https://en.wikipedia.org/wiki/North_Korea) · [首都／城市背景](https://en.wikipedia.org/wiki/Pyongyang)
 
@@ -187,12 +161,6 @@ Mongolia · Ulaanbaatar · 东亚
 
 **容易混淆**：蒙古是国家；内蒙古是中国自治区。
 
-**原亚洲手册的记忆故事**
-
-- Ulaanbaatar 的蒙古语含义大致是 “红色英雄”。
-- 1924 年城市改为现在的名称。
-- 早期这座城市甚至不是固定地点，而是一个多次迁移的宗教政治中心。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/mn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Mongolia) · [首都／城市背景](https://en.wikipedia.org/wiki/Ulaanbaatar)
 
 地图：[File:Mongolia-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Mongolia_CIA_map.png) · [File:Mongolia in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Mongolia_in_Asia_(relief)_(-mini_map).svg)
@@ -214,12 +182,6 @@ Vietnam · Hanoi · 东南亚
 > **记忆钩子**：越南北方河流间，首都河内。
 
 **容易混淆**：胡志明市是大都市，西贡是旧称，不是现首都。
-
-**原亚洲手册的记忆故事**
-
-- “河内”的字面意思就是 “河流之内”。
-- 1010 年，李朝把都城迁到这里附近，称 升龙（Thăng Long）。
-- 胡志明市更大、更商业化，但它不是首都。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/vn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Vietnam) · [首都／城市背景](https://en.wikipedia.org/wiki/Hanoi)
 
@@ -243,12 +205,6 @@ Laos · Vientiane · 东南亚
 
 **容易混淆**：琅勃拉邦是古都名城，万象是现首都。
 
-**原亚洲手册的记忆故事**
-
-- 万象位于湄公河左岸。
-- 从地理上看，它和泰国东北部距离非常近。
-- 老挝没有海，所以记住“首都贴着湄公河”很有效。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/la.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Laos) · [首都／城市背景](https://en.wikipedia.org/wiki/Vientiane)
 
 地图：[File:Laos-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Laos-CIA_WFB_Map.png) · [File:Laos in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Laos_in_Asia_(relief)_(-mini_map).svg)
@@ -270,12 +226,6 @@ Cambodia · Phnom Penh · 东南亚
 > **记忆钩子**：柬埔寨河流交会处，金边。
 
 **容易混淆**：吴哥和暹粒很有名，但都不是现首都。
-
-**原亚洲手册的记忆故事**
-
-- 金边名字与当地的 “佩恩夫人（Lady Penh）”传说和一座小山有关。
-- Phnom 在高棉语里有“山丘”的意思。
-- 吴哥是古代高棉帝国核心区域，但现代首都是金边。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kh.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Cambodia) · [首都／城市背景](https://en.wikipedia.org/wiki/Phnom_Penh)
 
@@ -299,12 +249,6 @@ Thailand · Bangkok · 东南亚
 
 **容易混淆**：清迈是北部名城；曼谷的泰语名称另有形式。
 
-**原亚洲手册的记忆故事**
-
-- 泰国人日常更常称曼谷为 Krung Thep。
-- 它有一个极长的传统正式名称，因此经常被拿来当“超长地名”的例子。
-- 曼谷位于湄南河下游。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/th.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Thailand) · [首都／城市背景](https://en.wikipedia.org/wiki/Bangkok)
 
 地图：[File:Thailand-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Thailand-CIA_WFB_Map.png) · [File:Thailand in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Thailand_in_Asia_(relief)_(-mini_map).svg)
@@ -326,13 +270,6 @@ Myanmar · Nay Pyi Taw · 东南亚
 > **记忆钩子**：缅甸迁都内陆，内比都。
 
 **容易混淆**：仰光是旧首都与重要城市，内比都是现首都。
-
-**原亚洲手册的记忆故事**
-
-- 过去的首都是 仰光 Yangon。
-- 2005 年政府机构开始迁往内比都，2006 年正式宣布其首都地位。
-- Nay Pyi Taw 大意可理解为 “王都 / 国王的居所”。
-- 城市以超宽道路和低密度布局著名。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/mm.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Myanmar) · [首都／城市背景](https://en.wikipedia.org/wiki/Naypyidaw)
 
@@ -356,13 +293,6 @@ Malaysia · Kuala Lumpur · 东南亚
 
 **容易混淆**：东马和西马同属一国；布城不取代吉隆坡的首都地位。
 
-**原亚洲手册的记忆故事**
-
-- 吉隆坡是国家首都。
-- 布城 Putrajaya 是联邦行政中心。
-- Kuala Lumpur 的名字通常解释为 “泥泞的河流汇合处”。
-- 双子塔让吉隆坡成为亚洲辨识度最高的城市之一。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/my.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Malaysia) · [首都／城市背景](https://en.wikipedia.org/wiki/Kuala_Lumpur)
 
 地图：[File:Malaysia-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Malaysia-CIA_WFB_Map.png) · [File:Malaysia in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Malaysia_in_Asia_(relief)_(-mini_map).svg)
@@ -384,12 +314,6 @@ Singapore · Singapore · 东南亚
 > **记忆钩子**：新加坡国家和首都同名。
 
 **容易混淆**：城市国家也有周边岛屿，不等于单一城区。
-
-**原亚洲手册的记忆故事**
-
-- Singapore 来自梵语 Singapura，通常解释为“狮城”。
-- 它是世界上少数典型的城市国家之一。
-- 所以这题属于“送分题”。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/sg.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Singapore) · [首都／城市背景](https://en.wikipedia.org/wiki/Singapore)
 
@@ -413,13 +337,6 @@ Indonesia · Jakarta → Nusantara (transition) · 东南亚
 
 **容易混淆**：迁都正在推进，规划目标与正式生效日期要分开。
 
-**原亚洲手册的记忆故事**
-
-- 雅加达殖民时期曾长期叫 Batavia（巴达维亚）。
-- 印尼正在婆罗洲加里曼丹建设新首都 Nusantara（努山塔拉）。
-- 但截至 2026 年，印尼宪法法院相关判决与现行法律仍确认：在总统正式发布迁都决定前，雅加达继续保持首都地位。
-- 印尼政府 2025 年规划目标是让努山塔拉在 2028 年成为政治首都。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/id.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Indonesia) · [首都／城市背景](https://en.wikipedia.org/wiki/Jakarta) · [努山塔拉管理局：2026年建设与2028年政治首都目标](https://www.ikn.go.id/storage/press-release/2026/20260106-siaran-pers-dipa-apel-perdana-2026%2C-otorita-ikn-tegaskan-transformasi-asn-menuju-ibu-kota-politik-2028.pdf) · [努山塔拉管理局：迁都背景](https://ikn.go.id/en/tentang)
 
 地图：[File:Indonesia-CIA WFB Map.png；CIA World Factbook；Public domain](https://commons.wikimedia.org/wiki/File:Indonesia-CIA_WFB_Map.png) · [File:Indonesia in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Indonesia_in_Asia_(relief)_(-mini_map).svg)
@@ -441,11 +358,6 @@ Philippines · Manila · 东南亚
 > **记忆钩子**：菲律宾吕宋西岸，马尼拉湾找马尼拉。
 
 **容易混淆**：马尼拉市与大马尼拉都会区范围不同；奎松市曾为首都。
-
-**原亚洲手册的记忆故事**
-
-- 西班牙殖民时期修建的 Intramuros（王城）至今仍是马尼拉的重要历史区域。
-- 马尼拉大都会是一个巨型都市区，但“首都”仍然是马尼拉市。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/ph.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Philippines) · [首都／城市背景](https://en.wikipedia.org/wiki/Manila)
 
@@ -469,12 +381,6 @@ Brunei · Bandar Seri Begawan · 东南亚
 
 **容易混淆**：文莱在婆罗洲北岸，首都在其西部主体国土。
 
-**原亚洲手册的记忆故事**
-
-- Bandar 大致是“城市/港口”。
-- 1970 年，首都改名为 Bandar Seri Begawan，以纪念苏丹奥马尔·阿里·赛福鼎三世。
-- 城中最著名的地标之一就是奥马尔·阿里·赛福鼎清真寺。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/bn.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Brunei) · [首都／城市背景](https://en.wikipedia.org/wiki/Bandar_Seri_Begawan)
 
 地图：[File:Brunei-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Brunei-CIA_WFB_Map.png) · [File:Brunei in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Brunei_in_Asia_(relief)_(-mini_map).svg)
@@ -496,12 +402,6 @@ Timor-Leste · Dili · 东南亚
 > **记忆钩子**：东帝汶，北岸帝力。
 
 **容易混淆**：整个帝汶岛不是都属于东帝汶；另有欧库西飞地。
-
-**原亚洲手册的记忆故事**
-
-- 东帝汶在 2002 年正式恢复独立。
-- 葡萄牙殖民历史使葡萄牙语至今仍是官方语言之一。
-- 帝力位于帝汶岛北岸。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/tl.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Timor-Leste) · [首都／城市背景](https://en.wikipedia.org/wiki/Dili)
 
@@ -525,11 +425,6 @@ Afghanistan · Kabul · 南亚
 
 **容易混淆**：文化区域分类可能不同，本版南亚分组依UN M49。
 
-**原亚洲手册的记忆故事**
-
-- 阿富汗长期处于古代丝绸之路及东西交通网络交汇地带。
-- 喀布尔周边被兴都库什山系环绕。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/af.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Afghanistan) · [首都／城市背景](https://en.wikipedia.org/wiki/Kabul)
 
 地图：[File:Afghanistan-CIA WFB Map.png；Original uploader was Zhaladshar at en.wikisource；Public domain](https://commons.wikimedia.org/wiki/File:Afghanistan-CIA_WFB_Map.png) · [File:Afghanistan in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Afghanistan_in_Asia_(relief)_(-mini_map).svg)
@@ -551,12 +446,6 @@ Pakistan · Islamabad · 南亚
 > **记忆钩子**：巴基斯坦山麓建新都，伊斯兰堡。
 
 **容易混淆**：卡拉奇是旧首都与海港；拉瓦尔品第是邻近城市。
-
-**原亚洲手册的记忆故事**
-
-- 巴基斯坦独立后最初的首都是 卡拉奇。
-- 后来修建了规划城市 伊斯兰堡作为新首都。
-- “Islamabad”可理解为“伊斯兰之城”。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/pk.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Pakistan) · [首都／城市背景](https://en.wikipedia.org/wiki/Islamabad)
 
@@ -580,12 +469,6 @@ India · New Delhi · 南亚
 
 **容易混淆**：新德里是德里的一部分，两名称范围不能完全等同。
 
-**原亚洲手册的记忆故事**
-
-- 1911 年，英属印度宣布将首都从加尔各答迁到德里。
-- 新德里随后按规划建设，主要设计者包括 Edwin Lutyens 和 Herbert Baker。
-- 今天“德里”是更大的国家首都辖区，而“新德里”是其中的国家政治核心。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/in.html) · [国家／地区背景](https://en.wikipedia.org/wiki/India) · [首都／城市背景](https://en.wikipedia.org/wiki/New_Delhi)
 
 地图：[File:India-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:India-CIA_WFB_Map.png) · [File:India in Asia (relief) (de-facto) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:India_in_Asia_(relief)_(de-facto)_(-mini_map).svg)
@@ -607,11 +490,6 @@ Nepal · Kathmandu · 南亚
 > **记忆钩子**：尼泊尔高山之间，谷地加德满都。
 
 **容易混淆**：珠穆朗玛峰是地标，首都是盆地城市。
-
-**原亚洲手册的记忆故事**
-
-- 加德满都谷地长期是尼泊尔文明核心。
-- 这里保存大量寺庙、宫殿与传统城市广场。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/np.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Nepal) · [首都／城市背景](https://en.wikipedia.org/wiki/Kathmandu)
 
@@ -635,11 +513,6 @@ Bhutan · Thimphu · 南亚
 
 **容易混淆**：帕罗机场有名，首都是廷布。
 
-**原亚洲手册的记忆故事**
-
-- 廷布是世界上海拔较高的国家首都之一。
-- 不丹政府与国王办公的重要建筑 扎西却宗（Tashichho Dzong）就在廷布。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/bt.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Bhutan) · [首都／城市背景](https://en.wikipedia.org/wiki/Thimphu)
 
 地图：[File:Bhutan-map.gif；MapsOpenSource；CC BY 3.0](https://commons.wikimedia.org/wiki/File:Bhutan-map.gif) · [File:Bhutan in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Bhutan_in_Asia_(relief)_(-mini_map).svg)
@@ -661,11 +534,6 @@ Bangladesh · Dhaka · 南亚
 > **记忆钩子**：孟加拉国河网密，中心城市达卡。
 
 **容易混淆**：吉大港是重要海港，不是首都。
-
-**原亚洲手册的记忆故事**
-
-- 达卡历史上以精细的 孟加拉薄纱 muslin闻名。
-- 这座城市今天是全球人口最密集的大都市之一。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/bd.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Bangladesh) · [首都／城市背景](https://en.wikipedia.org/wiki/Dhaka)
 
@@ -689,13 +557,6 @@ Sri Lanka · Sri Jayawardenepura Kotte · 南亚
 
 **容易混淆**：科特与科伦坡功能相关但名称不同，不能只背旧简表。
 
-**原亚洲手册的记忆故事**
-
-- 很多人会回答 科伦坡 Colombo。
-- 但斯里兰卡政府资料将 Sri Jayawardenepura Kotte列为行政首都；科伦坡是商业首都和最大城市。
-- 这座城市简称 Kotte（科特）会容易很多。
-- 1980 年代，议会迁入科特的新议会大楼。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/lk.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Sri_Lanka) · [首都／城市背景](https://en.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte) · [科特市政府：行政首都与科伦坡的关系](https://www.kotte.mc.gov.lk/index.php?Itemid=175&id=25&lang=en&option=com_content&view=article)
 
 地图：[File:Sri Lanka-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Sri_Lanka-CIA_WFB_Map.png) · [File:Sri Lanka in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sri_Lanka_in_Asia_(relief)_(-mini_map).svg)
@@ -717,12 +578,6 @@ Maldives · Malé · 南亚
 > **记忆钩子**：马尔代夫，首都马累。
 
 **容易混淆**：马累是行政城市，不是泛指全部度假环礁。
-
-**原亚洲手册的记忆故事**
-
-- 马尔代夫由大量珊瑚岛组成。
-- 首都马累所在岛面积很小，却高度城市化。
-- 国际机场主要位于旁边的 Hulhulé 岛。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/mv.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Maldives) · [首都／城市背景](https://en.wikipedia.org/wiki/Mal%C3%A9)
 
@@ -746,11 +601,6 @@ Iran · Tehran · 南亚
 
 **容易混淆**：分组依UN M49；伊斯法罕是历史古都。
 
-**原亚洲手册的记忆故事**
-
-- 德黑兰直到 18 世纪末卡扎尔王朝时期才成为国家首都。
-- 城市北侧就是厄尔布尔士山脉，天气好时城市背景可直接看到雪山。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/ir.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Iran) · [首都／城市背景](https://en.wikipedia.org/wiki/Tehran)
 
 地图：[File:Iran-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Iran-CIA_WFB_Map.png) · [File:Iran in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Iran_in_Asia_(relief)_(-mini_map).svg)
@@ -773,12 +623,6 @@ Kazakhstan · Astana · 中亚
 
 **容易混淆**：阿拉木图是旧首都；努尔苏丹是阿斯塔纳曾用名。
 
-**原亚洲手册的记忆故事**
-
-- Astana 在哈萨克语中本身就有 “首都”的含义。
-- 这座城市曾先后叫 Akmola、Astana、Nur-Sultan，2022 年又改回 Astana。
-- 所以这是一个“名字反复横跳”的首都。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kz.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Kazakhstan) · [首都／城市背景](https://en.wikipedia.org/wiki/Astana)
 
 地图：[File:Kazakhstan-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Kazakhstan-CIA_WFB_Map.png) · [File:Kazakhstan in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Kazakhstan_in_Asia_(relief)_(-mini_map).svg)
@@ -800,11 +644,6 @@ Kyrgyzstan · Bishkek · 中亚
 > **记忆钩子**：吉尔吉斯北部谷地，比什凯克。
 
 **容易混淆**：伏龙芝是旧称；不是哈萨克斯坦的阿斯塔纳。
-
-**原亚洲手册的记忆故事**
-
-- 苏联时期，这座城市曾叫 Frunze（伏龙芝）。
-- 1991 年吉尔吉斯斯坦独立前后恢复为 Bishkek。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kg.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Kyrgyzstan) · [首都／城市背景](https://en.wikipedia.org/wiki/Bishkek)
 
@@ -850,11 +689,6 @@ Turkmenistan · Ashgabat · 中亚
 
 **容易混淆**：达尔瓦扎气坑是景点，阿什哈巴德才是首都。
 
-**原亚洲手册的记忆故事**
-
-- 阿什哈巴德在 1948 年遭遇毁灭性大地震，之后大规模重建。
-- 今天城市以大量白色大理石建筑闻名。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/tm.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Turkmenistan) · [首都／城市背景](https://en.wikipedia.org/wiki/Ashgabat)
 
 地图：[File:Turkmenistan-CIA WFB Map.png；Central Intelligence Agency；Public domain](https://commons.wikimedia.org/wiki/File:Turkmenistan-CIA_WFB_Map.png) · [File:Turkmenistan in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Turkmenistan_in_Asia_(relief)_(-mini_map).svg)
@@ -876,12 +710,6 @@ Uzbekistan · Tashkent · 中亚
 > **记忆钩子**：乌兹别克的石城，塔什干。
 
 **容易混淆**：撒马尔罕、布哈拉是古城，现首都是塔什干。
-
-**原亚洲手册的记忆故事**
-
-- 乌兹别克斯坦最著名的丝路古城可能是撒马尔罕和布哈拉。
-- 但首都是 塔什干。
-- 1966 年的大地震之后，塔什干经历了大规模重建。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/uz.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Uzbekistan) · [首都／城市背景](https://en.wikipedia.org/wiki/Tashkent)
 
@@ -905,11 +733,6 @@ Armenia · Yerevan · 西亚
 
 **容易混淆**：南高加索本版归西亚；不要把埃里温与第比利斯混淆。
 
-**原亚洲手册的记忆故事**
-
-- 埃里温的历史与古代 Erebuni Fortress密切相关。
-- Erebuni 要塞建于公元前 782 年，是研究城市起源的重要节点。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/am.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Armenia) · [首都／城市背景](https://en.wikipedia.org/wiki/Yerevan)
 
 地图：[Armenia Transportation (2002)；United States Central Intelligence Agency；Public domain](https://www.cia.gov/resources/map/armenia/) · [File:Armenia in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Armenia_in_Asia_(relief)_(-mini_map).svg)
@@ -931,12 +754,6 @@ Azerbaijan · Baku · 西亚
 > **记忆钩子**：阿塞拜疆里海岸，石油城巴库。
 
 **容易混淆**：里海是内陆水体；纳希切万不是首都所在地。
-
-**原亚洲手册的记忆故事**
-
-- 巴库位于里海西岸。
-- 城市海拔低于海平面，是世界上海拔最低的国家首都之一。
-- 阿塞拜疆与石油工业历史关系极深，19 世纪末巴库就是世界重要石油城市。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/az.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Azerbaijan) · [首都／城市背景](https://en.wikipedia.org/wiki/Baku)
 
@@ -960,12 +777,6 @@ Georgia · Tbilisi · 西亚
 
 **容易混淆**：巴统是黑海港城；争议地区边界见图源。
 
-**原亚洲手册的记忆故事**
-
-- “Tbilisi”与格鲁吉亚语中的“温暖”有关。
-- 当地著名建城传说也和 温泉有关。
-- 今天老城区仍能看到硫磺浴场。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/ge.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Georgia) · [首都／城市背景](https://en.wikipedia.org/wiki/Tbilisi)
 
 地图：[File:Georgia-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Georgia-CIA_WFB_Map.png) · [File:Georgia in Asia.svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Georgia_in_Asia.svg)
@@ -987,12 +798,6 @@ Iraq · Baghdad · 西亚
 > **记忆钩子**：伊拉克两河文明，底格里斯河边巴格达。
 
 **容易混淆**：巴格达在底格里斯河畔，不是幼发拉底河畔。
-
-**原亚洲手册的记忆故事**
-
-- 巴格达于公元 762 年由阿拔斯王朝哈里发曼苏尔建立为新都。
-- 早期城市核心以著名的 “圆城”布局闻名。
-- 中世纪巴格达曾是伊斯兰世界最重要的知识中心之一。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/iq.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Iraq) · [首都／城市背景](https://en.wikipedia.org/wiki/Baghdad)
 
@@ -1016,11 +821,6 @@ Syria · Damascus · 西亚
 
 **容易混淆**：阿勒颇是重要历史城市，首都是大马士革。
 
-**原亚洲手册的记忆故事**
-
-- 大马士革通常被认为是世界上持续有人居住时间最长的城市之一。
-- 倭马亚清真寺是这座城市最重要的历史建筑之一。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/sy.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Syria) · [首都／城市背景](https://en.wikipedia.org/wiki/Damascus)
 
 地图：[File:Syria-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Syria-CIA_WFB_Map.png) · [File:Syria in Asia (relief) (claimed) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Syria_in_Asia_(relief)_(claimed)_(-mini_map).svg)
@@ -1042,12 +842,6 @@ Lebanon · Beirut · 西亚
 > **记忆钩子**：黎巴嫩雪松旁，海岸贝鲁特。
 
 **容易混淆**：的黎波里是黎巴嫩北部城市，但不是其首都。
-
-**原亚洲手册的记忆故事**
-
-- 贝鲁特位于地中海东岸。
-- 这里自古就是重要港口和商业中心。
-- 城市经历过多次毁坏与重建，因此历史层非常复杂。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/lb.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Lebanon) · [首都／城市背景](https://en.wikipedia.org/wiki/Beirut)
 
@@ -1071,12 +865,6 @@ Jordan · Amman · 西亚
 
 **容易混淆**：佩特拉和亚喀巴很有名，但首都是安曼。
 
-**原亚洲手册的记忆故事**
-
-- 古典时代，这座城市曾叫 Philadelphia。
-- 安曼城堡山和罗马剧场仍保存着大量古代遗迹。
-- 城市最初在山丘间发展，因此老城区高低起伏明显。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/jo.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Jordan) · [首都／城市背景](https://en.wikipedia.org/wiki/Amman)
 
 地图：[File:Jordan-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Jordan-CIA_WFB_Map.png) · [File:Jordan in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Jordan_in_Asia_(relief)_(-mini_map).svg)
@@ -1098,12 +886,6 @@ Israel · Jerusalem · 西亚
 > **记忆钩子**：以色列—耶路撒冷，名称后记“地位有争议”。
 
 **容易混淆**：特拉维夫是重要城市；耶路撒冷地位并非国际一致认定。
-
-**原亚洲手册的记忆故事**
-
-- 以色列将耶路撒冷作为首都和主要国家机构所在地。
-- 耶路撒冷对犹太教、基督教和伊斯兰教都具有重大宗教意义。
-- 但耶路撒冷的国际法律与外交地位长期存在争议，因此不同资料的表述会带有说明。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/il.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Israel) · [首都／城市背景](https://en.wikipedia.org/wiki/Jerusalem)
 
@@ -1149,12 +931,6 @@ Saudi Arabia · Riyadh · 西亚
 
 **容易混淆**：麦加、麦地那是圣城，不是政治首都。
 
-**原亚洲手册的记忆故事**
-
-- Riyadh 来自阿拉伯语中与“花园、绿地”有关的词根。
-- 这听起来和沙漠国家反差很大，因此很好记。
-- 利雅得位于阿拉伯半岛内陆。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/sa.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Saudi_Arabia) · [首都／城市背景](https://en.wikipedia.org/wiki/Riyadh)
 
 地图：[File:Saudi Arabia-CIA WFB Map.png；CIA；Public domain](https://commons.wikimedia.org/wiki/File:Saudi_Arabia-CIA_WFB_Map.png) · [File:Saudi Arabia in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Saudi_Arabia_in_Asia_(relief)_(-mini_map).svg)
@@ -1176,12 +952,6 @@ Yemen · Sana'a · 西亚
 > **记忆钩子**：也门高地古城萨那，南部港口亚丁。
 
 **容易混淆**：萨那为首都常用列示；亚丁的政府角色另说明。
-
-**原亚洲手册的记忆故事**
-
-- 萨那老城拥有极具辨识度的多层塔楼式传统民居。
-- 老城被列入联合国教科文组织世界遗产名录。
-- 由于也门长期冲突，政府实际驻地与行政运作较复杂；背诵国家首都时仍通常答 萨那。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/ye.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Yemen) · [首都／城市背景](https://en.wikipedia.org/wiki/Sanaa)
 
@@ -1205,12 +975,6 @@ Oman · Muscat · 西亚
 
 **容易混淆**：穆桑达姆是分离地区，首都在主体国土东北岸。
 
-**原亚洲手册的记忆故事**
-
-- 马斯喀特是印度洋—波斯湾航路上的重要港口。
-- 葡萄牙势力曾在 16—17 世纪控制这里的重要港口和堡垒。
-- 今天仍可看到沿海山地、港湾与堡垒组合的独特城市景观。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/om.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Oman) · [首都／城市背景](https://en.wikipedia.org/wiki/Muscat)
 
 地图：[File:Oman-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Oman-CIA_WFB_Map.png) · [File:Oman in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Oman_in_Asia_(relief)_(-mini_map).svg)
@@ -1232,11 +996,6 @@ United Arab Emirates · Abu Dhabi · 西亚
 > **记忆钩子**：阿联酋联邦首都阿布扎比，迪拜是另一城。
 
 **容易混淆**：迪拜不是国家首都；七个酋长国共同组成联邦。
-
-**原亚洲手册的记忆故事**
-
-- 阿布扎比既是阿联酋首都，也是阿布扎比酋长国首府。
-- Dubai 更有国际知名度，但国家政治首都是 Abu Dhabi。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/ae.html) · [国家／地区背景](https://en.wikipedia.org/wiki/United_Arab_Emirates) · [首都／城市背景](https://en.wikipedia.org/wiki/Abu_Dhabi)
 
@@ -1260,12 +1019,6 @@ Qatar · Doha · 西亚
 
 **容易混淆**：不要把卡塔尔和同为海湾国家的巴林混淆。
 
-**原亚洲手册的记忆故事**
-
-- 多哈位于波斯湾沿岸。
-- 在石油天然气繁荣之前，当地经济与珍珠采集、海上贸易关系密切。
-- 2022 年世界杯大量比赛场馆位于多哈都会区。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/qa.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Qatar) · [首都／城市背景](https://en.wikipedia.org/wiki/Doha)
 
 地图：[File:Qatar-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Qatar-CIA_WFB_Map.png) · [File:Qatar in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Qatar_in_Asia_(relief)_(-mini_map).svg)
@@ -1287,12 +1040,6 @@ Bahrain · Manama · 西亚
 > **记忆钩子**：巴林主岛北部，首都麦纳麦。
 
 **容易混淆**：巴林是群岛，卡塔尔是半岛；两者首都不同。
-
-**原亚洲手册的记忆故事**
-
-- 巴林是波斯湾岛国。
-- 麦纳麦位于巴林主岛东北部，是国家金融与商业中心。
-- 名字很特别，适合直接成对背。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/bh.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Bahrain) · [首都／城市背景](https://en.wikipedia.org/wiki/Manama)
 
@@ -1316,11 +1063,6 @@ Kuwait · Kuwait City · 西亚
 
 **容易混淆**：国家与城市同名体系，首都写科威特城更清楚。
 
-**原亚洲手册的记忆故事**
-
-- 城市位于科威特湾南岸。
-- “国家名 + City”就是首都名。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/kw.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Kuwait) · [首都／城市背景](https://en.wikipedia.org/wiki/Kuwait_City)
 
 地图：[File:Kuwait-CIA WFB Map.png；见原图来源页；Public domain](https://commons.wikimedia.org/wiki/File:Kuwait-CIA_WFB_Map.png) · [File:Kuwait in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Kuwait_in_Asia_(relief)_(-mini_map).svg)
@@ -1343,12 +1085,6 @@ Turkey · Ankara · 西亚
 
 **容易混淆**：伊斯坦布尔是历史都城和大都市，不是现首都。
 
-**原亚洲手册的记忆故事**
-
-- 奥斯曼帝国时代的政治中心长期是君士坦丁堡/伊斯坦布尔。
-- 土耳其共和国成立后，1923 年将 安卡拉定为首都。
-- 安卡拉位于安纳托利亚内陆，更接近土耳其地理中心。
-
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/tr.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Turkey) · [首都／城市背景](https://en.wikipedia.org/wiki/Ankara)
 
 地图：[File:Turkey-CIA WFB Map.png；unknown cartographer；Public domain](https://commons.wikimedia.org/wiki/File:Turkey-CIA_WFB_Map.png) · [File:Turkey in Asia (relief) (-mini map).svg；TUBS；CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Turkey_in_Asia_(relief)_(-mini_map).svg)
@@ -1370,12 +1106,6 @@ Cyprus · Nicosia · 西亚
 > **记忆钩子**：塞浦路斯海岛中央，内陆尼科西亚。
 
 **容易混淆**：城市分隔背景及岛内争议，不能用简单统一城区理解。
-
-**原亚洲手册的记忆故事**
-
-- 尼科西亚位于塞浦路斯岛中央，而不是海岸。
-- 老城保存着威尼斯时代修筑的星形城墙。
-- 城市的现代政治分隔也使它在欧洲—西亚地理讨论中经常出现。
 
 资料：[UNData 国家概况（统计快照）](https://data.un.org/legacy/en/iso/cy.html) · [国家／地区背景](https://en.wikipedia.org/wiki/Cyprus) · [首都／城市背景](https://en.wikipedia.org/wiki/Nicosia)
 

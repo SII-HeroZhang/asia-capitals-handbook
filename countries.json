@@ -32,13 +32,6 @@
         "https://www.gov.cn/guoqing/2020-07/28/content_5530577.htm"
       ]
     ],
-    "stories": [
-      "“北京 / 南京 / 东京”其实非常适合一起记：",
-      "北京 = Northern Capital",
-      "南京 = Southern Capital",
-      "东京 = Eastern Capital",
-      "明成祖时期，明朝政治中心逐渐北移，北京在 15 世纪成为帝国首都。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -69,11 +62,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Tokyo"
       ]
-    ],
-    "stories": [
-      "东京过去叫 江户（Edo）。",
-      "1868 年明治维新后，江户改称东京。",
-      "所以“东京”这个名字本身就已经在告诉你：这是“东边的首都”。"
     ],
     "capital_label": "首都"
   },
@@ -106,11 +94,6 @@
         "https://en.wikipedia.org/wiki/Seoul"
       ]
     ],
-    "stories": [
-      "朝鲜王朝时期，这座城市长期叫 汉阳 / 汉城（Hanyang / Hanseong）。",
-      "现代名称 Seoul 与韩语中“首都、京城”的概念有关。",
-      "汉江穿过整个首尔，是城市空间结构的重要轴线。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -141,11 +124,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Pyongyang"
       ]
-    ],
-    "stories": [
-      "平壤是一座非常古老的城市。",
-      "高句丽时期它就曾是重要政治中心。",
-      "中文名“平壤”很有辨识度，可以直接和“首尔”形成南北对照。"
     ],
     "capital_label": "首都"
   },
@@ -178,11 +156,6 @@
         "https://en.wikipedia.org/wiki/Ulaanbaatar"
       ]
     ],
-    "stories": [
-      "Ulaanbaatar 的蒙古语含义大致是 “红色英雄”。",
-      "1924 年城市改为现在的名称。",
-      "早期这座城市甚至不是固定地点，而是一个多次迁移的宗教政治中心。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -213,11 +186,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Hanoi"
       ]
-    ],
-    "stories": [
-      "“河内”的字面意思就是 “河流之内”。",
-      "1010 年，李朝把都城迁到这里附近，称 升龙（Thăng Long）。",
-      "胡志明市更大、更商业化，但它不是首都。"
     ],
     "capital_label": "首都"
   },
@@ -250,11 +218,6 @@
         "https://en.wikipedia.org/wiki/Vientiane"
       ]
     ],
-    "stories": [
-      "万象位于湄公河左岸。",
-      "从地理上看，它和泰国东北部距离非常近。",
-      "老挝没有海，所以记住“首都贴着湄公河”很有效。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -285,11 +248,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Phnom_Penh"
       ]
-    ],
-    "stories": [
-      "金边名字与当地的 “佩恩夫人（Lady Penh）”传说和一座小山有关。",
-      "Phnom 在高棉语里有“山丘”的意思。",
-      "吴哥是古代高棉帝国核心区域，但现代首都是金边。"
     ],
     "capital_label": "首都"
   },
@@ -322,11 +280,6 @@
         "https://en.wikipedia.org/wiki/Bangkok"
       ]
     ],
-    "stories": [
-      "泰国人日常更常称曼谷为 Krung Thep。",
-      "它有一个极长的传统正式名称，因此经常被拿来当“超长地名”的例子。",
-      "曼谷位于湄南河下游。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -357,12 +310,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Naypyidaw"
       ]
-    ],
-    "stories": [
-      "过去的首都是 仰光 Yangon。",
-      "2005 年政府机构开始迁往内比都，2006 年正式宣布其首都地位。",
-      "Nay Pyi Taw 大意可理解为 “王都 / 国王的居所”。",
-      "城市以超宽道路和低密度布局著名。"
     ],
     "capital_label": "首都"
   },
@@ -395,12 +342,6 @@
         "https://en.wikipedia.org/wiki/Kuala_Lumpur"
       ]
     ],
-    "stories": [
-      "吉隆坡是国家首都。",
-      "布城 Putrajaya 是联邦行政中心。",
-      "Kuala Lumpur 的名字通常解释为 “泥泞的河流汇合处”。",
-      "双子塔让吉隆坡成为亚洲辨识度最高的城市之一。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -431,11 +372,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Singapore"
       ]
-    ],
-    "stories": [
-      "Singapore 来自梵语 Singapura，通常解释为“狮城”。",
-      "它是世界上少数典型的城市国家之一。",
-      "所以这题属于“送分题”。"
     ],
     "capital_label": "首都"
   },
@@ -476,12 +412,6 @@
         "https://ikn.go.id/en/tentang"
       ]
     ],
-    "stories": [
-      "雅加达殖民时期曾长期叫 Batavia（巴达维亚）。",
-      "印尼正在婆罗洲加里曼丹建设新首都 Nusantara（努山塔拉）。",
-      "但截至 2026 年，印尼宪法法院相关判决与现行法律仍确认：在总统正式发布迁都决定前，雅加达继续保持首都地位。",
-      "印尼政府 2025 年规划目标是让努山塔拉在 2028 年成为政治首都。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -512,10 +442,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Manila"
       ]
-    ],
-    "stories": [
-      "西班牙殖民时期修建的 Intramuros（王城）至今仍是马尼拉的重要历史区域。",
-      "马尼拉大都会是一个巨型都市区，但“首都”仍然是马尼拉市。"
     ],
     "capital_label": "首都"
   },
@@ -548,11 +474,6 @@
         "https://en.wikipedia.org/wiki/Bandar_Seri_Begawan"
       ]
     ],
-    "stories": [
-      "Bandar 大致是“城市/港口”。",
-      "1970 年，首都改名为 Bandar Seri Begawan，以纪念苏丹奥马尔·阿里·赛福鼎三世。",
-      "城中最著名的地标之一就是奥马尔·阿里·赛福鼎清真寺。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -583,11 +504,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Dili"
       ]
-    ],
-    "stories": [
-      "东帝汶在 2002 年正式恢复独立。",
-      "葡萄牙殖民历史使葡萄牙语至今仍是官方语言之一。",
-      "帝力位于帝汶岛北岸。"
     ],
     "capital_label": "首都"
   },
@@ -620,10 +536,6 @@
         "https://en.wikipedia.org/wiki/Kabul"
       ]
     ],
-    "stories": [
-      "阿富汗长期处于古代丝绸之路及东西交通网络交汇地带。",
-      "喀布尔周边被兴都库什山系环绕。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -654,11 +566,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Islamabad"
       ]
-    ],
-    "stories": [
-      "巴基斯坦独立后最初的首都是 卡拉奇。",
-      "后来修建了规划城市 伊斯兰堡作为新首都。",
-      "“Islamabad”可理解为“伊斯兰之城”。"
     ],
     "capital_label": "首都"
   },
@@ -691,11 +598,6 @@
         "https://en.wikipedia.org/wiki/New_Delhi"
       ]
     ],
-    "stories": [
-      "1911 年，英属印度宣布将首都从加尔各答迁到德里。",
-      "新德里随后按规划建设，主要设计者包括 Edwin Lutyens 和 Herbert Baker。",
-      "今天“德里”是更大的国家首都辖区，而“新德里”是其中的国家政治核心。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -726,10 +628,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Kathmandu"
       ]
-    ],
-    "stories": [
-      "加德满都谷地长期是尼泊尔文明核心。",
-      "这里保存大量寺庙、宫殿与传统城市广场。"
     ],
     "capital_label": "首都"
   },
@@ -762,10 +660,6 @@
         "https://en.wikipedia.org/wiki/Thimphu"
       ]
     ],
-    "stories": [
-      "廷布是世界上海拔较高的国家首都之一。",
-      "不丹政府与国王办公的重要建筑 扎西却宗（Tashichho Dzong）就在廷布。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -796,10 +690,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Dhaka"
       ]
-    ],
-    "stories": [
-      "达卡历史上以精细的 孟加拉薄纱 muslin闻名。",
-      "这座城市今天是全球人口最密集的大都市之一。"
     ],
     "capital_label": "首都"
   },
@@ -836,12 +726,6 @@
         "https://www.kotte.mc.gov.lk/index.php?Itemid=175&id=25&lang=en&option=com_content&view=article"
       ]
     ],
-    "stories": [
-      "很多人会回答 科伦坡 Colombo。",
-      "但斯里兰卡政府资料将 Sri Jayawardenepura Kotte列为行政首都；科伦坡是商业首都和最大城市。",
-      "这座城市简称 Kotte（科特）会容易很多。",
-      "1980 年代，议会迁入科特的新议会大楼。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -872,11 +756,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Mal%C3%A9"
       ]
-    ],
-    "stories": [
-      "马尔代夫由大量珊瑚岛组成。",
-      "首都马累所在岛面积很小，却高度城市化。",
-      "国际机场主要位于旁边的 Hulhulé 岛。"
     ],
     "capital_label": "首都"
   },
@@ -909,10 +788,6 @@
         "https://en.wikipedia.org/wiki/Tehran"
       ]
     ],
-    "stories": [
-      "德黑兰直到 18 世纪末卡扎尔王朝时期才成为国家首都。",
-      "城市北侧就是厄尔布尔士山脉，天气好时城市背景可直接看到雪山。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -943,11 +818,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Astana"
       ]
-    ],
-    "stories": [
-      "Astana 在哈萨克语中本身就有 “首都”的含义。",
-      "这座城市曾先后叫 Akmola、Astana、Nur-Sultan，2022 年又改回 Astana。",
-      "所以这是一个“名字反复横跳”的首都。"
     ],
     "capital_label": "首都"
   },
@@ -980,10 +850,6 @@
         "https://en.wikipedia.org/wiki/Bishkek"
       ]
     ],
-    "stories": [
-      "苏联时期，这座城市曾叫 Frunze（伏龙芝）。",
-      "1991 年吉尔吉斯斯坦独立前后恢复为 Bishkek。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1015,7 +881,6 @@
         "https://en.wikipedia.org/wiki/Dushanbe"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1046,10 +911,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Ashgabat"
       ]
-    ],
-    "stories": [
-      "阿什哈巴德在 1948 年遭遇毁灭性大地震，之后大规模重建。",
-      "今天城市以大量白色大理石建筑闻名。"
     ],
     "capital_label": "首都"
   },
@@ -1082,11 +943,6 @@
         "https://en.wikipedia.org/wiki/Tashkent"
       ]
     ],
-    "stories": [
-      "乌兹别克斯坦最著名的丝路古城可能是撒马尔罕和布哈拉。",
-      "但首都是 塔什干。",
-      "1966 年的大地震之后，塔什干经历了大规模重建。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1117,10 +973,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Yerevan"
       ]
-    ],
-    "stories": [
-      "埃里温的历史与古代 Erebuni Fortress密切相关。",
-      "Erebuni 要塞建于公元前 782 年，是研究城市起源的重要节点。"
     ],
     "capital_label": "首都"
   },
@@ -1153,11 +1005,6 @@
         "https://en.wikipedia.org/wiki/Baku"
       ]
     ],
-    "stories": [
-      "巴库位于里海西岸。",
-      "城市海拔低于海平面，是世界上海拔最低的国家首都之一。",
-      "阿塞拜疆与石油工业历史关系极深，19 世纪末巴库就是世界重要石油城市。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1188,11 +1035,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Tbilisi"
       ]
-    ],
-    "stories": [
-      "“Tbilisi”与格鲁吉亚语中的“温暖”有关。",
-      "当地著名建城传说也和 温泉有关。",
-      "今天老城区仍能看到硫磺浴场。"
     ],
     "capital_label": "首都"
   },
@@ -1225,11 +1067,6 @@
         "https://en.wikipedia.org/wiki/Baghdad"
       ]
     ],
-    "stories": [
-      "巴格达于公元 762 年由阿拔斯王朝哈里发曼苏尔建立为新都。",
-      "早期城市核心以著名的 “圆城”布局闻名。",
-      "中世纪巴格达曾是伊斯兰世界最重要的知识中心之一。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1260,10 +1097,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Damascus"
       ]
-    ],
-    "stories": [
-      "大马士革通常被认为是世界上持续有人居住时间最长的城市之一。",
-      "倭马亚清真寺是这座城市最重要的历史建筑之一。"
     ],
     "capital_label": "首都"
   },
@@ -1296,11 +1129,6 @@
         "https://en.wikipedia.org/wiki/Beirut"
       ]
     ],
-    "stories": [
-      "贝鲁特位于地中海东岸。",
-      "这里自古就是重要港口和商业中心。",
-      "城市经历过多次毁坏与重建，因此历史层非常复杂。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1332,11 +1160,6 @@
         "https://en.wikipedia.org/wiki/Amman"
       ]
     ],
-    "stories": [
-      "古典时代，这座城市曾叫 Philadelphia。",
-      "安曼城堡山和罗马剧场仍保存着大量古代遗迹。",
-      "城市最初在山丘间发展，因此老城区高低起伏明显。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1367,11 +1190,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Jerusalem"
       ]
-    ],
-    "stories": [
-      "以色列将耶路撒冷作为首都和主要国家机构所在地。",
-      "耶路撒冷对犹太教、基督教和伊斯兰教都具有重大宗教意义。",
-      "但耶路撒冷的国际法律与外交地位长期存在争议，因此不同资料的表述会带有说明。"
     ],
     "capital_label": "首都"
   },
@@ -1408,7 +1226,6 @@
         "https://www.un.org/en/about-us/non-member-states"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1439,11 +1256,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Riyadh"
       ]
-    ],
-    "stories": [
-      "Riyadh 来自阿拉伯语中与“花园、绿地”有关的词根。",
-      "这听起来和沙漠国家反差很大，因此很好记。",
-      "利雅得位于阿拉伯半岛内陆。"
     ],
     "capital_label": "首都"
   },
@@ -1476,11 +1288,6 @@
         "https://en.wikipedia.org/wiki/Sanaa"
       ]
     ],
-    "stories": [
-      "萨那老城拥有极具辨识度的多层塔楼式传统民居。",
-      "老城被列入联合国教科文组织世界遗产名录。",
-      "由于也门长期冲突，政府实际驻地与行政运作较复杂；背诵国家首都时仍通常答 萨那。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1511,11 +1318,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Muscat"
       ]
-    ],
-    "stories": [
-      "马斯喀特是印度洋—波斯湾航路上的重要港口。",
-      "葡萄牙势力曾在 16—17 世纪控制这里的重要港口和堡垒。",
-      "今天仍可看到沿海山地、港湾与堡垒组合的独特城市景观。"
     ],
     "capital_label": "首都"
   },
@@ -1548,10 +1350,6 @@
         "https://en.wikipedia.org/wiki/Abu_Dhabi"
       ]
     ],
-    "stories": [
-      "阿布扎比既是阿联酋首都，也是阿布扎比酋长国首府。",
-      "Dubai 更有国际知名度，但国家政治首都是 Abu Dhabi。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1582,11 +1380,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Doha"
       ]
-    ],
-    "stories": [
-      "多哈位于波斯湾沿岸。",
-      "在石油天然气繁荣之前，当地经济与珍珠采集、海上贸易关系密切。",
-      "2022 年世界杯大量比赛场馆位于多哈都会区。"
     ],
     "capital_label": "首都"
   },
@@ -1619,11 +1412,6 @@
         "https://en.wikipedia.org/wiki/Manama"
       ]
     ],
-    "stories": [
-      "巴林是波斯湾岛国。",
-      "麦纳麦位于巴林主岛东北部，是国家金融与商业中心。",
-      "名字很特别，适合直接成对背。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1654,10 +1442,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Kuwait_City"
       ]
-    ],
-    "stories": [
-      "城市位于科威特湾南岸。",
-      "“国家名 + City”就是首都名。"
     ],
     "capital_label": "首都"
   },
@@ -1690,11 +1474,6 @@
         "https://en.wikipedia.org/wiki/Ankara"
       ]
     ],
-    "stories": [
-      "奥斯曼帝国时代的政治中心长期是君士坦丁堡/伊斯坦布尔。",
-      "土耳其共和国成立后，1923 年将 安卡拉定为首都。",
-      "安卡拉位于安纳托利亚内陆，更接近土耳其地理中心。"
-    ],
     "capital_label": "首都"
   },
   {
@@ -1725,11 +1504,6 @@
         "首都／城市背景",
         "https://en.wikipedia.org/wiki/Nicosia"
       ]
-    ],
-    "stories": [
-      "尼科西亚位于塞浦路斯岛中央，而不是海岸。",
-      "老城保存着威尼斯时代修筑的星形城墙。",
-      "城市的现代政治分隔也使它在欧洲—西亚地理讨论中经常出现。"
     ],
     "capital_label": "首都"
   },
@@ -1762,7 +1536,6 @@
         "https://en.wikipedia.org/wiki/London"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1794,7 +1567,6 @@
         "https://en.wikipedia.org/wiki/Dublin"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1826,7 +1598,6 @@
         "https://en.wikipedia.org/wiki/Reykjav%C3%ADk"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1858,7 +1629,6 @@
         "https://en.wikipedia.org/wiki/Oslo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1890,7 +1660,6 @@
         "https://en.wikipedia.org/wiki/Stockholm"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1922,7 +1691,6 @@
         "https://en.wikipedia.org/wiki/Helsinki"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1954,7 +1722,6 @@
         "https://en.wikipedia.org/wiki/Copenhagen"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -1986,7 +1753,6 @@
         "https://en.wikipedia.org/wiki/Tallinn"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2018,7 +1784,6 @@
         "https://en.wikipedia.org/wiki/Riga"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2050,7 +1815,6 @@
         "https://en.wikipedia.org/wiki/Vilnius"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2082,7 +1846,6 @@
         "https://en.wikipedia.org/wiki/Paris"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2114,7 +1877,6 @@
         "https://en.wikipedia.org/wiki/Berlin"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2150,7 +1912,6 @@
         "https://www.government.nl/binaries/government/documenten/publications/2017/04/21/culture-at-a-first-glance/CIB2015_ENG_publicatie_v8_DEF.pdf"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2182,7 +1943,6 @@
         "https://en.wikipedia.org/wiki/Brussels"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2214,7 +1974,6 @@
         "https://en.wikipedia.org/wiki/Luxembourg_City"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2250,7 +2009,6 @@
         "https://www.aboutswitzerland.eda.admin.ch/en/political-system"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2282,7 +2040,6 @@
         "https://en.wikipedia.org/wiki/Vienna"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2314,7 +2071,6 @@
         "https://en.wikipedia.org/wiki/Vaduz"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2346,7 +2102,6 @@
         "https://en.wikipedia.org/wiki/Monaco"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2378,7 +2133,6 @@
         "https://en.wikipedia.org/wiki/Madrid"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2410,7 +2164,6 @@
         "https://en.wikipedia.org/wiki/Lisbon"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2442,7 +2195,6 @@
         "https://en.wikipedia.org/wiki/Andorra_la_Vella"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2474,7 +2226,6 @@
         "https://en.wikipedia.org/wiki/Rome"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2510,7 +2261,6 @@
         "https://www.un.org/en/about-us/non-member-states"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2542,7 +2292,6 @@
         "https://en.wikipedia.org/wiki/City_of_San_Marino"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2574,7 +2323,6 @@
         "https://en.wikipedia.org/wiki/Valletta"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2606,7 +2354,6 @@
         "https://en.wikipedia.org/wiki/Athens"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2638,7 +2385,6 @@
         "https://en.wikipedia.org/wiki/Tirana"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2670,7 +2416,6 @@
         "https://en.wikipedia.org/wiki/Skopje"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2702,7 +2447,6 @@
         "https://en.wikipedia.org/wiki/Belgrade"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2734,7 +2478,6 @@
         "https://en.wikipedia.org/wiki/Podgorica"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2766,7 +2509,6 @@
         "https://en.wikipedia.org/wiki/Sarajevo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2798,7 +2540,6 @@
         "https://en.wikipedia.org/wiki/Zagreb"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2830,7 +2571,6 @@
         "https://en.wikipedia.org/wiki/Ljubljana"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2862,7 +2602,6 @@
         "https://en.wikipedia.org/wiki/Warsaw"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2894,7 +2633,6 @@
         "https://en.wikipedia.org/wiki/Prague"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2926,7 +2664,6 @@
         "https://en.wikipedia.org/wiki/Bratislava"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2958,7 +2695,6 @@
         "https://en.wikipedia.org/wiki/Budapest"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -2990,7 +2726,6 @@
         "https://en.wikipedia.org/wiki/Bucharest"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3022,7 +2757,6 @@
         "https://en.wikipedia.org/wiki/Sofia"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3054,7 +2788,6 @@
         "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3086,7 +2819,6 @@
         "https://en.wikipedia.org/wiki/Kyiv"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3118,7 +2850,6 @@
         "https://en.wikipedia.org/wiki/Minsk"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3150,7 +2881,6 @@
         "https://en.wikipedia.org/wiki/Moscow"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3186,7 +2916,6 @@
         "https://sis.gov.eg/en/media-center/press-releases/sis-refutes-economist-report-nac-is-an-integrated-development-project-serving-all-egyptians/"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3218,7 +2947,6 @@
         "https://en.wikipedia.org/wiki/Tripoli"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3250,7 +2978,6 @@
         "https://en.wikipedia.org/wiki/Tunis"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3282,7 +3009,6 @@
         "https://en.wikipedia.org/wiki/Algiers"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3314,7 +3040,6 @@
         "https://en.wikipedia.org/wiki/Rabat"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3346,7 +3071,6 @@
         "https://en.wikipedia.org/wiki/Khartoum"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3378,7 +3102,6 @@
         "https://en.wikipedia.org/wiki/Nouakchott"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3410,7 +3133,6 @@
         "https://en.wikipedia.org/wiki/Dakar"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3442,7 +3164,6 @@
         "https://en.wikipedia.org/wiki/Banjul"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3474,7 +3195,6 @@
         "https://en.wikipedia.org/wiki/Praia"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3506,7 +3226,6 @@
         "https://en.wikipedia.org/wiki/Bissau"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3538,7 +3257,6 @@
         "https://en.wikipedia.org/wiki/Conakry"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3570,7 +3288,6 @@
         "https://en.wikipedia.org/wiki/Freetown"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3602,7 +3319,6 @@
         "https://en.wikipedia.org/wiki/Monrovia"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3634,7 +3350,6 @@
         "https://en.wikipedia.org/wiki/Yamoussoukro"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3666,7 +3381,6 @@
         "https://en.wikipedia.org/wiki/Accra"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3698,7 +3412,6 @@
         "https://en.wikipedia.org/wiki/Lom%C3%A9"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3730,7 +3443,6 @@
         "https://en.wikipedia.org/wiki/Porto-Novo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3762,7 +3474,6 @@
         "https://en.wikipedia.org/wiki/Abuja"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3794,7 +3505,6 @@
         "https://en.wikipedia.org/wiki/Niamey"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3826,7 +3536,6 @@
         "https://en.wikipedia.org/wiki/Bamako"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3858,7 +3567,6 @@
         "https://en.wikipedia.org/wiki/Ouagadougou"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3890,7 +3598,6 @@
         "https://en.wikipedia.org/wiki/N%27Djamena"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3922,7 +3629,6 @@
         "https://en.wikipedia.org/wiki/Yaound%C3%A9"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3954,7 +3660,6 @@
         "https://en.wikipedia.org/wiki/Bangui"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -3990,7 +3695,6 @@
         "https://www.guineaecuatorialpress.com/index.php/noticias/el_presidente_de_la_republica_proclama_la_ciudad_de_la_paz_como_capital_de_la_republica_de_guinea_ecuatorial_con_la_firma_de_un_decreto_ley"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4022,7 +3726,6 @@
         "https://en.wikipedia.org/wiki/Libreville"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4054,7 +3757,6 @@
         "https://en.wikipedia.org/wiki/Brazzaville"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4086,7 +3788,6 @@
         "https://en.wikipedia.org/wiki/Kinshasa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4118,7 +3819,6 @@
         "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4150,7 +3850,6 @@
         "https://en.wikipedia.org/wiki/Luanda"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4182,7 +3881,6 @@
         "https://en.wikipedia.org/wiki/Juba"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4214,7 +3912,6 @@
         "https://en.wikipedia.org/wiki/Addis_Ababa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4246,7 +3943,6 @@
         "https://en.wikipedia.org/wiki/Asmara"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4278,7 +3974,6 @@
         "https://en.wikipedia.org/wiki/Djibouti"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4310,7 +4005,6 @@
         "https://en.wikipedia.org/wiki/Mogadishu"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4342,7 +4036,6 @@
         "https://en.wikipedia.org/wiki/Nairobi"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4374,7 +4067,6 @@
         "https://en.wikipedia.org/wiki/Kampala"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4406,7 +4098,6 @@
         "https://en.wikipedia.org/wiki/Kigali"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4442,7 +4133,6 @@
         "https://primature.gov.bi/presentation-generale/"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4474,7 +4164,6 @@
         "https://en.wikipedia.org/wiki/Dodoma"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4506,7 +4195,6 @@
         "https://en.wikipedia.org/wiki/Lusaka"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4538,7 +4226,6 @@
         "https://en.wikipedia.org/wiki/Lilongwe"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4570,7 +4257,6 @@
         "https://en.wikipedia.org/wiki/Maputo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4602,7 +4288,6 @@
         "https://en.wikipedia.org/wiki/Harare"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4634,7 +4319,6 @@
         "https://en.wikipedia.org/wiki/Antananarivo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4666,7 +4350,6 @@
         "https://en.wikipedia.org/wiki/Moroni"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4698,7 +4381,6 @@
         "https://en.wikipedia.org/wiki/Port_Louis"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4730,7 +4412,6 @@
         "https://en.wikipedia.org/wiki/Victoria%2C_Seychelles"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4770,7 +4451,6 @@
         "https://www.gov.za/about-sa/government-systems"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4802,7 +4482,6 @@
         "https://en.wikipedia.org/wiki/Windhoek"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4834,7 +4513,6 @@
         "https://en.wikipedia.org/wiki/Gaborone"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4866,7 +4544,6 @@
         "https://en.wikipedia.org/wiki/Maseru"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4898,7 +4575,6 @@
         "https://en.wikipedia.org/wiki/Mbabane"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4930,7 +4606,6 @@
         "https://en.wikipedia.org/wiki/Ottawa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4962,7 +4637,6 @@
         "https://en.wikipedia.org/wiki/Washington%2C_D.C."
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -4994,7 +4668,6 @@
         "https://en.wikipedia.org/wiki/Mexico_City"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5026,7 +4699,6 @@
         "https://en.wikipedia.org/wiki/Belmopan"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5058,7 +4730,6 @@
         "https://en.wikipedia.org/wiki/Guatemala_City"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5090,7 +4761,6 @@
         "https://en.wikipedia.org/wiki/Tegucigalpa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5122,7 +4792,6 @@
         "https://en.wikipedia.org/wiki/San_Salvador"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5154,7 +4823,6 @@
         "https://en.wikipedia.org/wiki/Managua"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5186,7 +4854,6 @@
         "https://en.wikipedia.org/wiki/San_Jos%C3%A9"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5218,7 +4885,6 @@
         "https://en.wikipedia.org/wiki/Panama_City"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5250,7 +4916,6 @@
         "https://en.wikipedia.org/wiki/Havana"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5282,7 +4947,6 @@
         "https://en.wikipedia.org/wiki/Kingston%2C_Jamaica"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5314,7 +4978,6 @@
         "https://en.wikipedia.org/wiki/Port-au-Prince"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5346,7 +5009,6 @@
         "https://en.wikipedia.org/wiki/Santo_Domingo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5378,7 +5040,6 @@
         "https://en.wikipedia.org/wiki/Nassau"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5410,7 +5071,6 @@
         "https://en.wikipedia.org/wiki/St._John%27s%2C_Antigua_and_Barbuda"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5442,7 +5102,6 @@
         "https://en.wikipedia.org/wiki/Basseterre"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5474,7 +5133,6 @@
         "https://en.wikipedia.org/wiki/Roseau"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5506,7 +5164,6 @@
         "https://en.wikipedia.org/wiki/Castries"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5538,7 +5195,6 @@
         "https://en.wikipedia.org/wiki/Kingstown"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5570,7 +5226,6 @@
         "https://en.wikipedia.org/wiki/Bridgetown"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5602,7 +5257,6 @@
         "https://en.wikipedia.org/wiki/St._George%27s%2C_Grenada"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5634,7 +5288,6 @@
         "https://en.wikipedia.org/wiki/Port_of_Spain"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5666,7 +5319,6 @@
         "https://en.wikipedia.org/wiki/Bogot%C3%A1"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5698,7 +5350,6 @@
         "https://en.wikipedia.org/wiki/Quito"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5730,7 +5381,6 @@
         "https://en.wikipedia.org/wiki/Lima"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5766,7 +5416,6 @@
         "https://www2.aladi.org/nsfaladi/dirinter.nsf/Vrepresentacionesweb/Bolivia"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5798,7 +5447,6 @@
         "https://en.wikipedia.org/wiki/Santiago"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5830,7 +5478,6 @@
         "https://en.wikipedia.org/wiki/Caracas"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5862,7 +5509,6 @@
         "https://en.wikipedia.org/wiki/Georgetown"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5894,7 +5540,6 @@
         "https://en.wikipedia.org/wiki/Paramaribo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5926,7 +5571,6 @@
         "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5958,7 +5602,6 @@
         "https://en.wikipedia.org/wiki/Asunci%C3%B3n"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -5990,7 +5633,6 @@
         "https://en.wikipedia.org/wiki/Montevideo"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6022,7 +5664,6 @@
         "https://en.wikipedia.org/wiki/Buenos_Aires"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6054,7 +5695,6 @@
         "https://en.wikipedia.org/wiki/Canberra"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6086,7 +5726,6 @@
         "https://en.wikipedia.org/wiki/Wellington"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6118,7 +5757,6 @@
         "https://en.wikipedia.org/wiki/Port_Moresby"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6150,7 +5788,6 @@
         "https://en.wikipedia.org/wiki/Honiara"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6182,7 +5819,6 @@
         "https://en.wikipedia.org/wiki/Port_Vila"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6214,7 +5850,6 @@
         "https://en.wikipedia.org/wiki/Suva"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6246,7 +5881,6 @@
         "https://en.wikipedia.org/wiki/Palikir"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6278,7 +5912,6 @@
         "https://en.wikipedia.org/wiki/Ngerulmud"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6310,7 +5943,6 @@
         "https://en.wikipedia.org/wiki/Majuro"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6346,7 +5978,6 @@
         "https://dgff2021.unctad.org/nauru/"
       ]
     ],
-    "stories": [],
     "capital_label": "政府所在地"
   },
   {
@@ -6378,7 +6009,6 @@
         "https://en.wikipedia.org/wiki/South_Tarawa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6410,7 +6040,6 @@
         "https://en.wikipedia.org/wiki/Funafuti"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6442,7 +6071,6 @@
         "https://www.samoa.travel/discover/the-islands-of-samoa/upolu-island/apia/"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6474,7 +6102,6 @@
         "https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6502,7 +6129,6 @@
         "https://en.wikipedia.org/wiki/Pristina"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6534,7 +6160,6 @@
         "https://www.un.org/dppa/decolonization/en/nsgt/western-sahara"
       ]
     ],
-    "stories": [],
     "capital_label": "城市定位"
   },
   {
@@ -6566,7 +6191,6 @@
         "https://www.pmoffice.gov.ck/2026/04/01/cook-islands-and-new-zealand-sign-declaration-on-defence-and-security/"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   },
   {
@@ -6598,7 +6222,6 @@
         "https://www.mfat.govt.nz/en/countries-and-regions/australia-and-pacific/niue"
       ]
     ],
-    "stories": [],
     "capital_label": "首都"
   }
 ]
